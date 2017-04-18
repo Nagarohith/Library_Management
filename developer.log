@@ -1,0 +1,553 @@
+2016-09-22 14:38:32,197 +0530 [http-nio-8080-exec-4] INFO : For New Session Login model created
+2016-09-22 14:38:32,465 +0530 [http-nio-8080-exec-4] DEBUG: nagr0616 is logged in as normal user
+2016-09-22 14:38:39,326 +0530 [http-nio-8080-exec-8] INFO : For New Session Login model created
+2016-09-22 14:38:39,364 +0530 [http-nio-8080-exec-8] DEBUG: dfgdstried to login to the system
+2016-09-22 14:55:51,281 +0530 [http-nio-8080-exec-7] DEBUG: Record inserted succesesfully for the user : abcd1234
+2016-09-22 14:55:51,282 +0530 [http-nio-8080-exec-7] INFO : Registered succesefullyabcd1234
+2016-09-22 14:56:04,295 +0530 [http-nio-8080-exec-10] INFO : For New Session Login model is created
+2016-09-22 14:56:04,341 +0530 [http-nio-8080-exec-10] DEBUG: Username : abcd1234 and Role : 1
+2016-09-22 14:56:04,341 +0530 [http-nio-8080-exec-10] INFO : abcd1234 is logged in as normal user
+2016-09-22 14:56:04,369 +0530 [http-nio-8080-exec-10] INFO : Login succesefull for the userabcd1234
+2016-09-22 17:10:24,240 +0530 [http-nio-8080-exec-3] DEBUG: User type : null
+2016-09-22 17:10:24,241 +0530 [http-nio-8080-exec-3] DEBUG: role in register jsp: 1
+2016-09-22 17:10:24,241 +0530 [http-nio-8080-exec-3] DEBUG: Passwords are not matching
+2016-09-22 17:11:35,824 +0530 [http-nio-8080-exec-6] DEBUG: catd1234 : Record inserted succesesfully for the user 
+2016-09-22 17:11:35,825 +0530 [http-nio-8080-exec-6] INFO : Registered succesefullycatd1234
+2016-09-22 17:12:23,977 +0530 [http-nio-8080-exec-1] INFO : For New Session Login model is created
+2016-09-22 17:12:24,035 +0530 [http-nio-8080-exec-1] INFO : Role of the nagr0616 is 1
+2016-09-22 17:12:24,036 +0530 [http-nio-8080-exec-1] DEBUG: Username : nagr0616 and Role : 1
+2016-09-22 17:12:24,036 +0530 [http-nio-8080-exec-1] INFO : nagr0616 is logged in as normal user
+2016-09-22 17:12:24,075 +0530 [http-nio-8080-exec-1] INFO : Login succesefull for the usernagr0616
+2016-09-22 17:13:09,205 +0530 [http-nio-8080-exec-5] INFO : Logout succesefull
+2016-09-22 17:13:21,600 +0530 [http-nio-8080-exec-10] INFO : For New Session Login model is created
+2016-09-22 17:13:21,853 +0530 [http-nio-8080-exec-10] INFO : Role of the nagr0616 is 1
+2016-09-22 17:13:21,853 +0530 [http-nio-8080-exec-10] DEBUG: Username : nagr0616 and Role : 1
+2016-09-22 17:13:21,853 +0530 [http-nio-8080-exec-10] INFO : nagr0616 is logged in as normal user
+2016-09-22 17:13:21,880 +0530 [http-nio-8080-exec-10] INFO : Login succesefull for the usernagr0616
+2016-09-22 17:13:24,516 +0530 [http-nio-8080-exec-9] INFO : nagr0616 : details are found
+2016-09-22 17:13:27,742 +0530 [http-nio-8080-exec-3] INFO : nagr0616 : Records updated succesefully
+2016-09-22 17:13:27,742 +0530 [http-nio-8080-exec-3] INFO : nagr0616 : Details are edited
+2016-09-22 17:13:29,007 +0530 [http-nio-8080-exec-7] DEBUG: nagr0616 : User's book details 
+2016-09-22 17:13:29,051 +0530 [http-nio-8080-exec-7] INFO : nagr0616 : searching for books
+2016-09-22 17:13:31,746 +0530 [http-nio-8080-exec-8] INFO : Logout succesefull
+2016-09-22 17:13:35,285 +0530 [http-nio-8080-exec-11] INFO : For New Session Login model is created
+2016-09-22 17:13:35,323 +0530 [http-nio-8080-exec-11] INFO : Role of the df is 2
+2016-09-22 17:13:35,323 +0530 [http-nio-8080-exec-11] DEBUG: Username : df and Role : 2
+2016-09-22 17:13:35,323 +0530 [http-nio-8080-exec-11] INFO : df is logged in as normal user
+2016-09-22 17:13:35,353 +0530 [http-nio-8080-exec-11] INFO : Login succesefull for the userdf
+2016-09-22 17:14:24,634 +0530 [http-nio-8080-exec-6] INFO : B83215 : Inserted successfully
+2016-09-22 17:14:24,634 +0530 [http-nio-8080-exec-6] INFO : B83215 : Book Inserted succesefully
+2016-09-22 17:15:27,945 +0530 [http-nio-8080-exec-11] INFO : D : search succesesful
+2016-09-22 17:15:37,678 +0530 [http-nio-8080-exec-17] INFO : abcd: Deleted succesesfully
+2016-09-22 17:15:37,679 +0530 [http-nio-8080-exec-17] INFO : abcd : Book Is deleted from library
+2016-09-22 17:15:41,223 +0530 [http-nio-8080-exec-13] INFO : d : search succesesful
+2016-09-22 17:15:55,562 +0530 [http-nio-8080-exec-18] INFO : B83215 : edited success
+2016-09-22 17:15:59,596 +0530 [http-nio-8080-exec-14] INFO : B83215 : Updated details successfully
+2016-09-22 17:15:59,596 +0530 [http-nio-8080-exec-14] DEBUG: B83215 : is edited succesesfully
+2016-09-22 17:16:04,181 +0530 [http-nio-8080-exec-15] INFO : d : search succesesful
+2016-09-22 17:16:32,087 +0530 [http-nio-8080-exec-11] INFO : Nagr0616: Is valid to issue books
+2016-09-22 17:16:32,148 +0530 [http-nio-8080-exec-11] FATAL: B015 : Primary key violation
+2016-09-22 17:16:32,148 +0530 [http-nio-8080-exec-11] DEBUG: Insertion Failure for book id B015 and for username Nagr0616
+2016-09-22 17:16:59,835 +0530 [http-nio-8080-exec-13] DEBUG: B014is either taken or not found in library
+2016-09-22 17:16:59,836 +0530 [http-nio-8080-exec-13] DEBUG: Nagr0616 : Is not a registered user
+2016-09-22 17:18:01,868 +0530 [http-nio-8080-exec-19] INFO : nagr0616: Is valid to issue books
+2016-09-22 17:18:01,887 +0530 [http-nio-8080-exec-19] INFO : Insertion success for book id B009 and for username nagr0616
+2016-09-22 17:18:29,772 +0530 [http-nio-8080-exec-18] INFO : B009 : is returned by : nagr0616
+2016-09-22 17:18:29,772 +0530 [http-nio-8080-exec-18] INFO : B009 : Deletion success for book id  and for username nagr0616
+2016-09-22 17:18:34,982 +0530 [http-nio-8080-exec-19] INFO : Logout succesefull
+2016-09-22 17:18:44,485 +0530 [http-nio-8080-exec-15] INFO : For New Session Login model is created
+2016-09-22 17:18:44,524 +0530 [http-nio-8080-exec-15] INFO : Role of the admin is 3
+2016-09-22 17:18:44,524 +0530 [http-nio-8080-exec-15] DEBUG: Username : admin and Role : 3
+2016-09-22 17:18:44,524 +0530 [http-nio-8080-exec-15] INFO : admin is logged in as normal user
+2016-09-22 17:18:44,567 +0530 [http-nio-8080-exec-15] INFO : Login succesefull for the useradmin
+2016-09-22 17:18:46,943 +0530 [http-nio-8080-exec-11] DEBUG: User type : Librarian
+2016-09-22 17:18:46,943 +0530 [http-nio-8080-exec-11] DEBUG: role in register jsp: 2
+2016-09-22 17:18:46,943 +0530 [http-nio-8080-exec-11] DEBUG: Passwords are not matching
+2016-09-22 17:19:29,622 +0530 [http-nio-8080-exec-12] DEBUG: rish0616 : Record inserted succesesfully for the user 
+2016-09-22 17:19:29,623 +0530 [http-nio-8080-exec-12] INFO : Registered succesefullyrish0616
+2016-09-22 17:19:39,849 +0530 [http-nio-8080-exec-14] ERROR: nagr0616 : Can't remove users for the user 
+2016-09-22 17:20:55,946 +0530 [http-nio-8080-exec-18] ERROR: nagr0616 : Can't remove users for the user 
+2016-09-22 17:20:55,946 +0530 [http-nio-8080-exec-18] DEBUG: nagr0616 : Remove  unsuccessful to the user 
+2016-09-22 17:21:32,857 +0530 [http-nio-8080-exec-19] INFO : Logout succesefull
+2016-09-26 10:09:29,778 +0530 [main] ERROR: UserId already present please choose another.
+2016-09-26 10:09:29,778 +0530 [main] ERROR: Error in insertion of records into the table person : error may be in wild cards or syntax of sql quieries
+2016-09-26 10:09:40,808 +0530 [main] ERROR: UserId already present please choose another.
+2016-09-26 10:09:40,809 +0530 [main] ERROR: Error in insertion of records into the table person : error may be in wild cards or syntax of sql quieries
+2016-09-26 10:10:25,824 +0530 [main] ERROR: UserId already present please choose another.
+2016-09-26 10:10:25,824 +0530 [main] ERROR: Error in insertion of records into the table person : error may be in wild cards or syntax of sql quieries
+2016-09-26 10:50:40,426 +0530 [main] INFO : B986575 : Inserted successfully
+2016-09-26 10:54:08,091 +0530 [main] ERROR: B986575Error at Insertion of book details for the book 
+2016-09-26 10:57:07,740 +0530 [main] INFO : B986585 : Inserted successfully
+2016-09-26 10:58:42,506 +0530 [main] ERROR: B986575Error at Insertion of book details for the book 
+2016-09-26 11:01:25,362 +0530 [main] ERROR: B986575Error at Insertion of book details for the book 
+2016-09-26 11:01:25,425 +0530 [main] ERROR: Error in retrieval of books may happened due wrong syntax in sql statements
+2016-09-26 11:02:47,068 +0530 [main] ERROR: B986575Error at Insertion of book details for the book 
+2016-09-26 11:02:47,112 +0530 [main] ERROR: Error in retrieval of books may happened due wrong syntax in sql statements
+2016-09-26 11:03:24,553 +0530 [main] INFO : B986535 : Inserted successfully
+2016-09-26 11:03:24,599 +0530 [main] ERROR: Error in retrieval of books may happened due wrong syntax in sql statements
+2016-09-26 11:04:00,989 +0530 [main] INFO : B986537 : Inserted successfully
+2016-09-26 11:04:01,037 +0530 [main] ERROR: Error in retrieval of books may happened due wrong syntax in sql statements
+2016-09-26 11:05:25,815 +0530 [main] INFO : B984537 : Inserted successfully
+2016-09-26 11:05:25,861 +0530 [main] ERROR: Error in retrieval of books may happened due wrong syntax in sql statements
+2016-09-26 11:07:14,285 +0530 [main] INFO : B084537 : Inserted successfully
+2016-09-26 11:08:40,824 +0530 [main] INFO : B084577 : Inserted successfully
+2016-09-26 11:35:21,167 +0530 [main] ERROR: B084577Error at Insertion of book details for the book 
+2016-09-26 11:35:21,275 +0530 [main] INFO : B012: Deleted succesesfully
+2016-09-26 11:38:50,564 +0530 [main] ERROR: B084577Error at Insertion of book details for the book 
+2016-09-26 11:38:50,645 +0530 [main] INFO : B012: Deleted succesesfully
+2016-09-26 11:38:50,677 +0530 [main] INFO : B012 : Deleted already
+2016-09-26 11:39:39,293 +0530 [main] INFO : B083577 : Inserted successfully
+2016-09-26 11:39:39,370 +0530 [main] INFO : B015: Deleted succesesfully
+2016-09-26 11:39:39,400 +0530 [main] INFO : B015 : Deleted already
+2016-09-26 11:41:38,868 +0530 [main] ERROR: B083577Error at Insertion of book details for the book 
+2016-09-26 11:41:38,946 +0530 [main] INFO : B013: Deleted succesesfully
+2016-09-26 11:41:38,976 +0530 [main] INFO : B013 : Deleted already
+2016-09-26 11:45:49,277 +0530 [main] ERROR: B083577Error at Insertion of book details for the book 
+2016-09-26 11:45:49,354 +0530 [main] INFO : B013: Deleted succesesfully
+2016-09-26 11:45:49,384 +0530 [main] INFO : B013 : Deleted already
+2016-09-26 11:49:31,860 +0530 [main] INFO : B082577 : Inserted successfully
+2016-09-26 11:49:31,931 +0530 [main] INFO : B013: Deleted succesesfully
+2016-09-26 11:49:31,978 +0530 [main] INFO : B013 : Deleted already
+2016-09-26 11:52:37,415 +0530 [main] INFO : B089477 : Inserted successfully
+2016-09-26 11:52:37,491 +0530 [main] INFO : B011: Deleted succesesfully
+2016-09-26 11:52:37,520 +0530 [main] INFO : B011 : Deleted already
+2016-09-26 11:52:43,057 +0530 [main] ERROR: B089477Error at Insertion of book details for the book 
+2016-09-26 11:52:43,144 +0530 [main] INFO : B011: Deleted succesesfully
+2016-09-26 11:52:43,175 +0530 [main] INFO : B011 : Deleted already
+2016-09-26 11:52:47,937 +0530 [main] ERROR: B089477Error at Insertion of book details for the book 
+2016-09-26 11:52:48,013 +0530 [main] INFO : B011: Deleted succesesfully
+2016-09-26 11:52:48,043 +0530 [main] INFO : B011 : Deleted already
+2016-09-26 12:05:09,604 +0530 [main] INFO : nagr061 : Removed user
+2016-09-26 12:05:09,682 +0530 [main] DEBUG: nagr061 : Record inserted succesesfully for the user 
+2016-09-26 12:06:29,882 +0530 [main] INFO : nagr061 : Removed user
+2016-09-26 12:06:29,958 +0530 [main] DEBUG: nagr061 : Record inserted succesesfully for the user 
+2016-09-26 12:10:54,098 +0530 [main] INFO : nagr061 : Removed user
+2016-09-26 12:10:54,175 +0530 [main] DEBUG: nagr061 : Record inserted succesesfully for the user 
+2016-09-26 12:12:02,850 +0530 [main] INFO : nagr061 : Removed user
+2016-09-26 12:12:02,943 +0530 [main] DEBUG: nagr061 : Record inserted succesesfully for the user 
+2016-09-26 12:13:01,086 +0530 [main] INFO : nagr061 : Removed user
+2016-09-26 12:13:01,162 +0530 [main] DEBUG: nagr061 : Record inserted succesesfully for the user 
+2016-09-26 12:13:20,730 +0530 [main] ERROR: UserId already present please choose another.
+2016-09-26 12:13:20,730 +0530 [main] ERROR: Error in insertion of records into the table person : error may be in wild cards or syntax of sql quieries
+2016-09-26 12:14:17,501 +0530 [main] ERROR: UserId already present please choose another.
+2016-09-26 12:14:17,501 +0530 [main] ERROR: Error in insertion of records into the table person : error may be in wild cards or syntax of sql quieries
+2016-09-26 12:14:27,630 +0530 [main] INFO : nagr061 : Removed user
+2016-09-26 12:14:27,710 +0530 [main] DEBUG: nagr061 : Record inserted succesesfully for the user 
+2016-09-26 12:22:01,629 +0530 [main] INFO : libb : Removed user
+2016-09-26 12:22:01,711 +0530 [main] ERROR: UserId already present please choose another.
+2016-09-26 12:22:01,712 +0530 [main] ERROR: Error in insertion of records into the table person : error may be in wild cards or syntax of sql quieries
+2016-09-26 12:24:30,352 +0530 [main] DEBUG: libb : Can't remove user
+2016-09-26 12:24:30,451 +0530 [main] ERROR: UserId already present please choose another.
+2016-09-26 12:24:30,451 +0530 [main] ERROR: Error in insertion of records into the table person : error may be in wild cards or syntax of sql quieries
+2016-09-26 12:27:49,389 +0530 [main] DEBUG: nagr061 : Can't remove user
+2016-09-26 12:27:49,465 +0530 [main] DEBUG: nagr061 : Record inserted succesesfully for the user 
+2016-09-26 12:28:19,485 +0530 [main] INFO : B012324 : Inserted successfully
+2016-09-26 12:28:19,561 +0530 [main] INFO : B012324: Deleted succesesfully
+2016-09-26 12:28:19,595 +0530 [main] INFO : B012324 : Deleted already
+2016-09-26 12:28:41,784 +0530 [main] INFO : nagr061 : Removed user
+2016-09-26 12:28:41,861 +0530 [main] DEBUG: nagr061 : Record inserted succesesfully for the user 
+2016-09-26 12:28:47,928 +0530 [main] INFO : B012324 : Inserted successfully
+2016-09-26 12:28:48,006 +0530 [main] INFO : B012324: Deleted succesesfully
+2016-09-26 12:28:48,036 +0530 [main] INFO : B012324 : Deleted already
+2016-09-26 17:31:37,674 +0530 [http-nio-8080-exec-8] DEBUG: User type : null
+2016-09-26 17:31:37,675 +0530 [http-nio-8080-exec-8] DEBUG: role in register jsp: 1
+2016-09-26 17:31:37,675 +0530 [http-nio-8080-exec-8] DEBUG: Passwords are not matching
+2016-09-26 17:31:47,451 +0530 [http-nio-8080-exec-10] INFO : Java Programming : Book Name searching by visitor  
+2016-09-26 17:31:47,454 +0530 [http-nio-8080-exec-10] DEBUG: Java Programming : searching visitor 
+2016-09-26 17:32:51,905 +0530 [http-nio-8080-exec-9] INFO : For New Session Login model is created
+2016-09-26 17:32:51,953 +0530 [http-nio-8080-exec-9] INFO : Role of the nagr0616 is 1
+2016-09-26 17:32:51,953 +0530 [http-nio-8080-exec-9] DEBUG: Username : nagr0616 and Role : 1
+2016-09-26 17:32:51,953 +0530 [http-nio-8080-exec-9] INFO : nagr0616 is logged in as normal user
+2016-09-26 17:32:51,981 +0530 [http-nio-8080-exec-9] INFO : Login succesefull for the usernagr0616
+2016-09-26 17:33:01,440 +0530 [http-nio-8080-exec-1] DEBUG: nagr0616 : User's book details 
+2016-09-26 17:33:01,477 +0530 [http-nio-8080-exec-1] INFO : nagr0616 : searching for books
+2016-09-26 17:33:41,301 +0530 [http-nio-8080-exec-2] INFO : Logout succesefull
+2016-09-26 17:34:19,284 +0530 [http-nio-8080-exec-2] INFO : Logout succesefull
+2016-09-26 17:34:22,927 +0530 [http-nio-8080-exec-5] DEBUG: session is not created
+2016-09-26 17:36:01,503 +0530 [http-nio-8080-exec-6] DEBUG: Error! Session has ended.  Please login.
+2016-09-26 17:36:09,096 +0530 [http-nio-8080-exec-1] INFO : For New Session Login model is created
+2016-09-26 17:36:09,139 +0530 [http-nio-8080-exec-1] INFO : Role of the nagr0616 is 1
+2016-09-26 17:36:09,140 +0530 [http-nio-8080-exec-1] DEBUG: Username : nagr0616 and Role : 1
+2016-09-26 17:36:09,140 +0530 [http-nio-8080-exec-1] INFO : nagr0616 is logged in as normal user
+2016-09-26 17:36:09,171 +0530 [http-nio-8080-exec-1] INFO : Login succesefull for the usernagr0616
+2016-09-26 17:36:10,876 +0530 [http-nio-8080-exec-2] INFO : Logout succesefull
+2016-09-26 17:36:16,582 +0530 [http-nio-8080-exec-5] INFO : Logout succesefull
+2016-09-26 17:37:44,708 +0530 [http-nio-8080-exec-1] INFO : For New Session Login model is created
+2016-09-26 17:37:44,744 +0530 [http-nio-8080-exec-1] INFO : Role of the admin is 3
+2016-09-26 17:37:44,744 +0530 [http-nio-8080-exec-1] DEBUG: Username : admin and Role : 3
+2016-09-26 17:37:44,744 +0530 [http-nio-8080-exec-1] INFO : admin is logged in as normal user
+2016-09-26 17:37:44,789 +0530 [http-nio-8080-exec-1] INFO : Login succesefull for the useradmin
+2016-09-26 17:37:48,972 +0530 [http-nio-8080-exec-2] DEBUG: User type : Librarian
+2016-09-26 17:37:48,972 +0530 [http-nio-8080-exec-2] DEBUG: role in register jsp: 2
+2016-09-26 17:37:48,972 +0530 [http-nio-8080-exec-2] DEBUG: Passwords are not matching
+2016-09-26 17:37:56,620 +0530 [http-nio-8080-exec-5] INFO : Logout succesefull
+2016-09-26 17:41:21,018 +0530 [http-nio-8080-exec-8] INFO : For New Session Login model is created
+2016-09-26 17:41:21,058 +0530 [http-nio-8080-exec-8] INFO : Role of the nagr0616 is 1
+2016-09-26 17:41:21,058 +0530 [http-nio-8080-exec-8] DEBUG: Username : nagr0616 and Role : 1
+2016-09-26 17:41:21,058 +0530 [http-nio-8080-exec-8] INFO : nagr0616 is logged in as normal user
+2016-09-26 17:41:21,088 +0530 [http-nio-8080-exec-8] INFO : Login succesefull for the usernagr0616
+2016-09-26 17:41:23,799 +0530 [http-nio-8080-exec-10] INFO : nagr0616 : details are found
+2016-09-26 17:41:25,691 +0530 [http-nio-8080-exec-4] INFO : Logout succesefull
+2016-09-26 17:41:27,541 +0530 [http-nio-8080-exec-3] DEBUG: Error! Session has ended.  Please login.
+2016-09-26 17:42:29,080 +0530 [http-nio-8080-exec-8] INFO : For New Session Login model is created
+2016-09-26 17:42:29,110 +0530 [http-nio-8080-exec-8] INFO : Role of the df is 2
+2016-09-26 17:42:29,110 +0530 [http-nio-8080-exec-8] DEBUG: Username : df and Role : 2
+2016-09-26 17:42:29,110 +0530 [http-nio-8080-exec-8] INFO : df is logged in as normal user
+2016-09-26 17:42:29,140 +0530 [http-nio-8080-exec-8] INFO : Login succesefull for the userdf
+2016-09-26 17:42:34,287 +0530 [http-nio-8080-exec-4] INFO : Logout succesefull
+2016-09-26 17:42:36,215 +0530 [http-nio-8080-exec-3] DEBUG: Session is not created
+2016-09-26 17:43:05,033 +0530 [http-nio-8080-exec-8] INFO : For New Session Login model is created
+2016-09-26 17:43:05,063 +0530 [http-nio-8080-exec-8] INFO : Role of the admin is 3
+2016-09-26 17:43:05,063 +0530 [http-nio-8080-exec-8] DEBUG: Username : admin and Role : 3
+2016-09-26 17:43:05,063 +0530 [http-nio-8080-exec-8] INFO : admin is logged in as normal user
+2016-09-26 17:43:05,093 +0530 [http-nio-8080-exec-8] INFO : Login succesefull for the useradmin
+2016-09-26 17:43:07,449 +0530 [http-nio-8080-exec-10] INFO : Logout succesefull
+2016-09-26 17:44:01,465 +0530 [http-nio-8080-exec-6] INFO : For New Session Login model is created
+2016-09-26 17:44:01,505 +0530 [http-nio-8080-exec-6] INFO : Role of the nagr0616 is 1
+2016-09-26 17:44:01,505 +0530 [http-nio-8080-exec-6] DEBUG: Username : nagr0616 and Role : 1
+2016-09-26 17:44:01,505 +0530 [http-nio-8080-exec-6] INFO : nagr0616 is logged in as normal user
+2016-09-26 17:44:01,535 +0530 [http-nio-8080-exec-6] INFO : Login succesefull for the usernagr0616
+2016-09-26 17:44:17,308 +0530 [http-nio-8080-exec-9] DEBUG: nagr0616 : User's book details 
+2016-09-26 17:44:17,338 +0530 [http-nio-8080-exec-9] INFO : nagr0616 : searching for books
+2016-09-26 17:44:20,868 +0530 [http-nio-8080-exec-1] INFO : Logout succesefull
+2016-09-26 17:44:23,534 +0530 [http-nio-8080-exec-2] DEBUG: Error! Session has ended.  Please login.
+2016-09-26 17:44:38,394 +0530 [http-nio-8080-exec-4] DEBUG: Error! Session has ended.  Please login.
+2016-09-26 17:47:52,416 +0530 [http-nio-8080-exec-7] INFO : For New Session Login model is created
+2016-09-26 17:47:52,466 +0530 [http-nio-8080-exec-7] INFO : Role of the nagr0616 is 1
+2016-09-26 17:47:52,466 +0530 [http-nio-8080-exec-7] DEBUG: Username : nagr0616 and Role : 1
+2016-09-26 17:47:52,466 +0530 [http-nio-8080-exec-7] INFO : nagr0616 is logged in as normal user
+2016-09-26 17:47:52,496 +0530 [http-nio-8080-exec-7] INFO : Login succesefull for the usernagr0616
+2016-09-26 17:47:54,584 +0530 [http-nio-8080-exec-8] INFO : nagr0616 : details are found
+2016-09-26 17:47:55,860 +0530 [http-nio-8080-exec-1] INFO : nagr0616 : Records updated succesefully
+2016-09-26 17:47:55,860 +0530 [http-nio-8080-exec-1] INFO : nagr0616 : Details are edited
+2016-09-26 17:47:57,254 +0530 [http-nio-8080-exec-2] INFO : Logout succesefull
+2016-09-26 17:47:58,780 +0530 [http-nio-8080-exec-5] DEBUG: Error! Session has ended.  Please login.
+2016-09-26 17:48:47,718 +0530 [http-nio-8080-exec-9] INFO : For New Session Login model is created
+2016-09-26 17:48:47,748 +0530 [http-nio-8080-exec-9] INFO : Role of the nagr0616 is 1
+2016-09-26 17:48:47,748 +0530 [http-nio-8080-exec-9] DEBUG: Username : nagr0616 and Role : 1
+2016-09-26 17:48:47,748 +0530 [http-nio-8080-exec-9] INFO : nagr0616 is logged in as normal user
+2016-09-26 17:48:47,778 +0530 [http-nio-8080-exec-9] INFO : Login succesefull for the usernagr0616
+2016-09-26 17:48:50,494 +0530 [http-nio-8080-exec-1] INFO : nagr0616 : details are found
+2016-09-26 17:48:51,627 +0530 [http-nio-8080-exec-10] INFO : nagr0616 : Records updated succesefully
+2016-09-26 17:48:51,627 +0530 [http-nio-8080-exec-10] INFO : nagr0616 : Details are edited
+2016-09-26 17:48:52,557 +0530 [http-nio-8080-exec-4] INFO : Logout succesefull
+2016-09-26 17:48:54,359 +0530 [http-nio-8080-exec-3] DEBUG: Error! Session has ended.  Please login.
+2016-09-26 17:48:54,674 +0530 [http-nio-8080-exec-6] DEBUG: session is not created
+2016-09-26 17:48:54,934 +0530 [http-nio-8080-exec-7] DEBUG: Error! Session has ended.  Please login.
+2016-09-26 17:48:58,616 +0530 [http-nio-8080-exec-9] DEBUG: Error! Session has ended.  Please login.
+2016-09-26 17:48:59,346 +0530 [http-nio-8080-exec-8] DEBUG: session is not created
+2016-09-26 17:48:59,626 +0530 [http-nio-8080-exec-1] DEBUG: Error! Session has ended.  Please login.
+2016-09-26 17:49:12,291 +0530 [http-nio-8080-exec-10] INFO : For New Session Login model is created
+2016-09-26 17:49:12,331 +0530 [http-nio-8080-exec-10] INFO : Role of the nagr0616 is 1
+2016-09-26 17:49:12,331 +0530 [http-nio-8080-exec-10] DEBUG: Username : nagr0616 and Role : 1
+2016-09-26 17:49:12,331 +0530 [http-nio-8080-exec-10] INFO : nagr0616 is logged in as normal user
+2016-09-26 17:49:12,361 +0530 [http-nio-8080-exec-10] INFO : Login succesefull for the usernagr0616
+2016-09-26 17:49:13,822 +0530 [http-nio-8080-exec-4] INFO : nagr0616 : details are found
+2016-09-26 17:49:14,696 +0530 [http-nio-8080-exec-5] INFO : nagr0616 : Records updated succesefully
+2016-09-26 17:49:14,696 +0530 [http-nio-8080-exec-5] INFO : nagr0616 : Details are edited
+2016-09-26 17:49:15,849 +0530 [http-nio-8080-exec-6] DEBUG: nagr0616 : User's book details 
+2016-09-26 17:49:15,869 +0530 [http-nio-8080-exec-6] INFO : nagr0616 : searching for books
+2016-09-26 17:49:19,947 +0530 [http-nio-8080-exec-9] INFO : nagr0616 : details are found
+2016-09-26 17:49:21,068 +0530 [http-nio-8080-exec-8] INFO : nagr0616 : Records updated succesefully
+2016-09-26 17:49:21,068 +0530 [http-nio-8080-exec-8] INFO : nagr0616 : Details are edited
+2016-09-26 17:49:22,311 +0530 [http-nio-8080-exec-10] DEBUG: nagr0616 : User's book details 
+2016-09-26 17:49:22,351 +0530 [http-nio-8080-exec-10] INFO : nagr0616 : searching for books
+2016-09-26 17:49:25,684 +0530 [http-nio-8080-exec-4] INFO : Logout succesefull
+2016-09-26 17:49:27,434 +0530 [http-nio-8080-exec-3] DEBUG: Error! Session has ended.  Please login.
+2016-09-26 17:49:28,144 +0530 [http-nio-8080-exec-6] DEBUG: Session is not created
+2016-09-26 17:49:28,384 +0530 [http-nio-8080-exec-7] DEBUG: Error! Session has ended.  Please login.
+2016-09-26 17:49:28,624 +0530 [http-nio-8080-exec-9] DEBUG: session is not created
+2016-09-26 17:49:28,824 +0530 [http-nio-8080-exec-8] DEBUG: Error! Session has ended.  Please login.
+2016-09-26 17:49:29,316 +0530 [http-nio-8080-exec-1] DEBUG: Session is not created
+2016-09-26 17:49:29,606 +0530 [http-nio-8080-exec-10] DEBUG: Error! Session has ended.  Please login.
+2016-09-26 17:49:30,136 +0530 [http-nio-8080-exec-2] DEBUG: session is not created
+2016-09-26 17:49:30,366 +0530 [http-nio-8080-exec-4] DEBUG: Error! Session has ended.  Please login.
+2016-09-26 17:49:30,816 +0530 [http-nio-8080-exec-5] DEBUG: Error! Session has ended.  Please login.
+2016-09-26 17:49:32,536 +0530 [http-nio-8080-exec-3] DEBUG: session is not created
+2016-09-26 17:49:32,967 +0530 [http-nio-8080-exec-6] DEBUG: Error! Session has ended.  Please login.
+2016-09-26 17:50:47,695 +0530 [http-nio-8080-exec-9] DEBUG: Session is not created
+2016-09-26 17:50:51,695 +0530 [http-nio-8080-exec-8] INFO : For New Session Login model is created
+2016-09-26 17:50:51,735 +0530 [http-nio-8080-exec-8] INFO : Role of the df is 2
+2016-09-26 17:50:51,735 +0530 [http-nio-8080-exec-8] DEBUG: Username : df and Role : 2
+2016-09-26 17:50:51,735 +0530 [http-nio-8080-exec-8] INFO : df is logged in as normal user
+2016-09-26 17:50:51,765 +0530 [http-nio-8080-exec-8] INFO : Login succesefull for the userdf
+2016-09-26 17:51:02,088 +0530 [http-nio-8080-exec-4] INFO : Logout succesefull
+2016-09-26 17:51:04,532 +0530 [http-nio-8080-exec-3] DEBUG: Session is not created
+2016-09-26 17:51:16,546 +0530 [http-nio-8080-exec-6] DEBUG: Session is not created
+2016-09-26 17:51:22,691 +0530 [http-nio-8080-exec-7] INFO : For New Session Login model is created
+2016-09-26 17:51:22,723 +0530 [http-nio-8080-exec-7] INFO : Role of the df is 2
+2016-09-26 17:51:22,723 +0530 [http-nio-8080-exec-7] DEBUG: Username : df and Role : 2
+2016-09-26 17:51:22,723 +0530 [http-nio-8080-exec-7] INFO : df is logged in as normal user
+2016-09-26 17:51:22,764 +0530 [http-nio-8080-exec-7] INFO : Login succesefull for the userdf
+2016-09-26 17:52:15,088 +0530 [http-nio-8080-exec-10] INFO : B64356 : Inserted successfully
+2016-09-26 17:52:15,088 +0530 [http-nio-8080-exec-10] INFO : B64356 : Book Inserted succesefully
+2016-09-26 17:52:20,425 +0530 [http-nio-8080-exec-5] INFO : Logout succesefull
+2016-09-26 17:52:22,354 +0530 [http-nio-8080-exec-6] DEBUG: Session is not created
+2016-09-26 17:52:46,421 +0530 [http-nio-8080-exec-8] INFO : For New Session Login model is created
+2016-09-26 17:52:46,461 +0530 [http-nio-8080-exec-8] INFO : Role of the df is 2
+2016-09-26 17:52:46,461 +0530 [http-nio-8080-exec-8] DEBUG: Username : df and Role : 2
+2016-09-26 17:52:46,461 +0530 [http-nio-8080-exec-8] INFO : df is logged in as normal user
+2016-09-26 17:52:46,491 +0530 [http-nio-8080-exec-8] INFO : Login succesefull for the userdf
+2016-09-26 17:52:54,769 +0530 [http-nio-8080-exec-2] INFO : DBMS : search succesesful
+2016-09-26 17:53:00,417 +0530 [http-nio-8080-exec-4] INFO : B64356 : edited success
+2016-09-26 17:53:04,641 +0530 [http-nio-8080-exec-5] INFO : B64356 : Updated details successfully
+2016-09-26 17:53:04,641 +0530 [http-nio-8080-exec-5] DEBUG: B64356 : is edited succesesfully
+2016-09-26 17:53:07,829 +0530 [http-nio-8080-exec-7] INFO : Logout succesefull
+2016-09-26 17:53:10,615 +0530 [http-nio-8080-exec-8] DEBUG: Session is not created
+2016-09-26 17:56:25,344 +0530 [http-nio-8080-exec-10] DEBUG: Session is valid
+2016-09-26 17:56:29,852 +0530 [http-nio-8080-exec-2] INFO : For New Session Login model is created
+2016-09-26 17:56:29,882 +0530 [http-nio-8080-exec-2] INFO : Role of the df is 2
+2016-09-26 17:56:29,882 +0530 [http-nio-8080-exec-2] DEBUG: Username : df and Role : 2
+2016-09-26 17:56:29,882 +0530 [http-nio-8080-exec-2] INFO : df is logged in as normal user
+2016-09-26 17:56:29,902 +0530 [http-nio-8080-exec-2] INFO : Login succesefull for the userdf
+2016-09-26 17:58:02,307 +0530 [http-nio-8080-exec-6] INFO : B76490 : Inserted successfully
+2016-09-26 17:58:02,307 +0530 [http-nio-8080-exec-6] INFO : B76490 : Book Inserted succesefully
+2016-09-26 17:58:14,755 +0530 [http-nio-8080-exec-8] INFO : Logout succesefull
+2016-09-26 17:58:16,238 +0530 [http-nio-8080-exec-10] DEBUG: Session is not created
+2016-09-26 17:58:52,611 +0530 [http-nio-8080-exec-4] DEBUG: session is not created
+2016-09-26 17:58:58,322 +0530 [http-nio-8080-exec-5] INFO : For New Session Login model is created
+2016-09-26 17:58:58,342 +0530 [http-nio-8080-exec-5] INFO : Role of the df is 2
+2016-09-26 17:58:58,342 +0530 [http-nio-8080-exec-5] DEBUG: Username : df and Role : 2
+2016-09-26 17:58:58,342 +0530 [http-nio-8080-exec-5] INFO : df is logged in as normal user
+2016-09-26 17:58:58,372 +0530 [http-nio-8080-exec-5] INFO : Login succesefull for the userdf
+2016-09-26 17:59:05,087 +0530 [http-nio-8080-exec-9] INFO : Logout succesefull
+2016-09-26 17:59:06,426 +0530 [http-nio-8080-exec-1] DEBUG: Session is not created
+2016-09-26 17:59:07,368 +0530 [http-nio-8080-exec-10] DEBUG: session is not created
+2016-09-26 17:59:17,408 +0530 [http-nio-8080-exec-2] INFO : For New Session Login model is created
+2016-09-26 17:59:17,448 +0530 [http-nio-8080-exec-2] INFO : Role of the nagr0616 is 1
+2016-09-26 17:59:17,448 +0530 [http-nio-8080-exec-2] DEBUG: Username : nagr0616 and Role : 1
+2016-09-26 17:59:17,448 +0530 [http-nio-8080-exec-2] INFO : nagr0616 is logged in as normal user
+2016-09-26 17:59:17,488 +0530 [http-nio-8080-exec-2] INFO : Login succesefull for the usernagr0616
+2016-09-26 17:59:21,950 +0530 [http-nio-8080-exec-5] DEBUG: nagr0616 : User's book details 
+2016-09-26 17:59:21,981 +0530 [http-nio-8080-exec-5] INFO : nagr0616 : searching for books
+2016-09-26 17:59:24,904 +0530 [http-nio-8080-exec-6] INFO : Logout succesefull
+2016-09-26 17:59:26,395 +0530 [http-nio-8080-exec-9] DEBUG: Error! Session has ended.  Please login.
+2016-09-26 17:59:28,108 +0530 [http-nio-8080-exec-8] DEBUG: Session is not created
+2016-09-26 17:59:28,278 +0530 [http-nio-8080-exec-1] DEBUG: Error! Session has ended.  Please login.
+2016-09-26 17:59:28,468 +0530 [http-nio-8080-exec-10] DEBUG: session is not created
+2016-09-26 17:59:33,349 +0530 [http-nio-8080-exec-2] INFO : For New Session Login model is created
+2016-09-26 17:59:33,389 +0530 [http-nio-8080-exec-2] INFO : Role of the df is 2
+2016-09-26 17:59:33,389 +0530 [http-nio-8080-exec-2] DEBUG: Username : df and Role : 2
+2016-09-26 17:59:33,389 +0530 [http-nio-8080-exec-2] INFO : df is logged in as normal user
+2016-09-26 17:59:33,419 +0530 [http-nio-8080-exec-2] INFO : Login succesefull for the userdf
+2016-09-26 18:00:17,733 +0530 [http-nio-8080-exec-7] DEBUG: DBMs : search unsucceseful
+2016-09-26 18:00:23,719 +0530 [http-nio-8080-exec-9] INFO : dbms : search succesesful
+2016-09-26 18:00:44,144 +0530 [http-nio-8080-exec-1] INFO : B38095: Deleted succesesfully
+2016-09-26 18:00:44,144 +0530 [http-nio-8080-exec-1] INFO : B38095 : Book Is deleted from library
+2016-09-26 18:00:53,165 +0530 [http-nio-8080-exec-2] INFO : dbms : search succesesful
+2016-09-26 18:01:00,238 +0530 [http-nio-8080-exec-4] INFO : dbms : search succesesful
+2016-09-26 18:01:08,642 +0530 [http-nio-8080-exec-7] INFO : Logout succesefull
+2016-09-26 18:01:10,559 +0530 [http-nio-8080-exec-8] DEBUG: Session is not created
+2016-09-26 18:01:11,089 +0530 [http-nio-8080-exec-1] DEBUG: session is not created
+2016-09-26 18:01:13,901 +0530 [http-nio-8080-exec-10] DEBUG: Session is not created
+2016-09-26 18:01:16,094 +0530 [http-nio-8080-exec-2] DEBUG: Session is not created
+2016-09-26 18:01:16,266 +0530 [http-nio-8080-exec-4] DEBUG: session is not created
+2016-09-26 18:01:27,023 +0530 [http-nio-8080-exec-5] INFO : For New Session Login model is created
+2016-09-26 18:01:27,053 +0530 [http-nio-8080-exec-5] INFO : Role of the df is 2
+2016-09-26 18:01:27,053 +0530 [http-nio-8080-exec-5] DEBUG: Username : df and Role : 2
+2016-09-26 18:01:27,053 +0530 [http-nio-8080-exec-5] INFO : df is logged in as normal user
+2016-09-26 18:01:27,083 +0530 [http-nio-8080-exec-5] INFO : Login succesefull for the userdf
+2016-09-26 18:01:33,226 +0530 [http-nio-8080-exec-7] DEBUG: dbdf : search unsucceseful
+2016-09-26 18:01:38,135 +0530 [http-nio-8080-exec-1] INFO : Logout succesefull
+2016-09-26 18:01:40,615 +0530 [http-nio-8080-exec-2] DEBUG: Session is not created
+2016-09-26 18:01:41,988 +0530 [http-nio-8080-exec-4] DEBUG: session is not created
+2016-09-26 18:02:04,233 +0530 [http-nio-8080-exec-6] INFO : For New Session Login model is created
+2016-09-26 18:02:04,283 +0530 [http-nio-8080-exec-6] INFO : Role of the df is 2
+2016-09-26 18:02:04,283 +0530 [http-nio-8080-exec-6] DEBUG: Username : df and Role : 2
+2016-09-26 18:02:04,283 +0530 [http-nio-8080-exec-6] INFO : df is logged in as normal user
+2016-09-26 18:02:04,303 +0530 [http-nio-8080-exec-6] INFO : Login succesefull for the userdf
+2016-09-26 18:02:27,054 +0530 [http-nio-8080-exec-1] INFO : nagr0616: Is valid to issue books
+2016-09-26 18:02:27,074 +0530 [http-nio-8080-exec-1] INFO : Insertion success for book id B016 and for username nagr0616
+2016-09-26 18:02:36,754 +0530 [http-nio-8080-exec-5] INFO : Logout succesefull
+2016-09-26 18:02:38,085 +0530 [http-nio-8080-exec-6] DEBUG: Session is not created
+2016-09-26 18:02:42,479 +0530 [http-nio-8080-exec-7] DEBUG: Session is not created
+2016-09-26 18:02:44,873 +0530 [http-nio-8080-exec-9] DEBUG: Session is not created
+2016-09-26 18:02:47,407 +0530 [http-nio-8080-exec-8] DEBUG: Session is not created
+2016-09-26 18:03:03,974 +0530 [http-nio-8080-exec-2] INFO : For New Session Login model is created
+2016-09-26 18:03:04,014 +0530 [http-nio-8080-exec-2] INFO : Role of the df is 2
+2016-09-26 18:03:04,014 +0530 [http-nio-8080-exec-2] DEBUG: Username : df and Role : 2
+2016-09-26 18:03:04,014 +0530 [http-nio-8080-exec-2] INFO : df is logged in as normal user
+2016-09-26 18:03:04,044 +0530 [http-nio-8080-exec-2] INFO : Login succesefull for the userdf
+2016-09-26 18:03:14,622 +0530 [http-nio-8080-exec-3] INFO : B016 : is returned by : nagr0616
+2016-09-26 18:03:14,622 +0530 [http-nio-8080-exec-3] INFO : B016 : Deletion success for book id  and for username nagr0616
+2016-09-26 18:03:19,636 +0530 [http-nio-8080-exec-9] INFO : Logout succesefull
+2016-09-26 18:03:21,279 +0530 [http-nio-8080-exec-1] DEBUG: Session is not created
+2016-09-26 18:03:37,324 +0530 [http-nio-8080-exec-4] INFO : For New Session Login model is created
+2016-09-26 18:03:37,364 +0530 [http-nio-8080-exec-4] INFO : Role of the admin is 3
+2016-09-26 18:03:37,364 +0530 [http-nio-8080-exec-4] DEBUG: Username : admin and Role : 3
+2016-09-26 18:03:37,364 +0530 [http-nio-8080-exec-4] INFO : admin is logged in as normal user
+2016-09-26 18:03:37,394 +0530 [http-nio-8080-exec-4] INFO : Login succesefull for the useradmin
+2016-09-26 18:03:41,715 +0530 [http-nio-8080-exec-3] DEBUG: User type : Librarian
+2016-09-26 18:03:41,715 +0530 [http-nio-8080-exec-3] DEBUG: role in register jsp: 2
+2016-09-26 18:03:41,715 +0530 [http-nio-8080-exec-3] DEBUG: Passwords are not matching
+2016-09-26 18:04:42,042 +0530 [http-nio-8080-exec-7] DEBUG: abcd0615 : Record inserted succesesfully for the user 
+2016-09-26 18:04:42,042 +0530 [http-nio-8080-exec-7] INFO : Registered succesefullyabcd0615
+2016-09-26 18:04:45,799 +0530 [http-nio-8080-exec-8] INFO : Logout succesefull
+2016-09-26 18:04:49,067 +0530 [http-nio-8080-exec-10] DEBUG: session is not created
+2016-09-26 18:10:33,966 +0530 [http-nio-8080-exec-4] DEBUG: session is not created
+2016-09-26 18:10:44,614 +0530 [http-nio-8080-exec-5] INFO : For New Session Login model is created
+2016-09-26 18:10:44,654 +0530 [http-nio-8080-exec-5] INFO : Role of the df is 2
+2016-09-26 18:10:44,654 +0530 [http-nio-8080-exec-5] DEBUG: Username : df and Role : 2
+2016-09-26 18:10:44,654 +0530 [http-nio-8080-exec-5] INFO : df is logged in as normal user
+2016-09-26 18:10:44,684 +0530 [http-nio-8080-exec-5] INFO : Login succesefull for the userdf
+2016-09-26 18:10:52,046 +0530 [http-nio-8080-exec-7] INFO : DBMS : search succesesful
+2016-09-26 18:11:08,801 +0530 [http-nio-8080-exec-9] DEBUG: Session is not created
+2016-09-26 18:11:19,648 +0530 [http-nio-8080-exec-1] INFO : For New Session Login model is created
+2016-09-26 18:11:19,688 +0530 [http-nio-8080-exec-1] INFO : Role of the df is 2
+2016-09-26 18:11:19,688 +0530 [http-nio-8080-exec-1] DEBUG: Username : df and Role : 2
+2016-09-26 18:11:19,688 +0530 [http-nio-8080-exec-1] INFO : df is logged in as normal user
+2016-09-26 18:11:19,718 +0530 [http-nio-8080-exec-1] INFO : Login succesefull for the userdf
+2016-09-26 18:11:27,745 +0530 [http-nio-8080-exec-4] INFO : DBMS : search succesesful
+2016-09-26 18:12:59,418 +0530 [http-nio-8080-exec-7] INFO : Logout succesefull
+2016-09-26 18:13:06,396 +0530 [http-nio-8080-exec-8] INFO : For New Session Login model is created
+2016-09-26 18:13:06,432 +0530 [http-nio-8080-exec-8] INFO : Role of the admin is 3
+2016-09-26 18:13:06,433 +0530 [http-nio-8080-exec-8] DEBUG: Username : admin and Role : 3
+2016-09-26 18:13:06,433 +0530 [http-nio-8080-exec-8] INFO : admin is logged in as normal user
+2016-09-26 18:13:06,463 +0530 [http-nio-8080-exec-8] INFO : Login succesefull for the useradmin
+2016-09-26 18:13:59,395 +0530 [http-nio-8080-exec-3] INFO : Logout succesefull
+2016-09-26 18:14:00,746 +0530 [http-nio-8080-exec-7] DEBUG: session is not created
+2016-09-26 18:14:01,473 +0530 [http-nio-8080-exec-9] DEBUG: Session is not created
+2016-09-26 18:14:01,652 +0530 [http-nio-8080-exec-8] DEBUG: Session is not created
+2016-09-27 11:16:04,448 +0530 [http-nio-8080-exec-8] INFO : For New Session Login model is created
+2016-09-27 11:16:05,031 +0530 [http-nio-8080-exec-8] INFO : Role of the nagr0616 is 1
+2016-09-27 11:16:05,031 +0530 [http-nio-8080-exec-8] DEBUG: Username : nagr0616 and Role : 1
+2016-09-27 11:16:05,031 +0530 [http-nio-8080-exec-8] INFO : nagr0616 is logged in as normal user
+2016-09-27 11:16:05,099 +0530 [http-nio-8080-exec-8] INFO : Login succesefull for the usernagr0616
+2016-09-27 11:16:20,770 +0530 [http-nio-8080-exec-10] INFO : Logout succesefull
+2016-09-27 11:16:24,258 +0530 [http-nio-8080-exec-2] DEBUG: Error! Session has ended.  Please login.
+2016-09-27 11:56:17,436 +0530 [http-nio-8080-exec-6] INFO : 1 : Book Name searching by visitor  
+2016-09-27 11:56:17,444 +0530 [http-nio-8080-exec-6] DEBUG: 1 : searching visitor 
+2016-09-27 11:56:17,700 +0530 [http-nio-8080-exec-6] DEBUG: 1 : Searching failed for visitor that is book not found
+2016-09-27 11:56:23,679 +0530 [http-nio-8080-exec-7] INFO : 1123 : Book Name searching by visitor  
+2016-09-27 11:56:23,682 +0530 [http-nio-8080-exec-7] DEBUG: 1123 : searching visitor 
+2016-09-27 11:56:23,719 +0530 [http-nio-8080-exec-7] DEBUG: 1123 : Searching failed for visitor that is book not found
+2016-09-27 11:56:27,883 +0530 [http-nio-8080-exec-8] INFO : 12345 : Book Name searching by visitor  
+2016-09-27 11:56:27,883 +0530 [http-nio-8080-exec-8] DEBUG: 12345 : searching visitor 
+2016-09-27 11:56:27,923 +0530 [http-nio-8080-exec-8] DEBUG: 12345 : Searching failed for visitor that is book not found
+2016-09-27 11:56:40,979 +0530 [http-nio-8080-exec-10] INFO : Java/Programming : Book Name searching by visitor  
+2016-09-27 11:56:40,979 +0530 [http-nio-8080-exec-10] DEBUG: Java/Programming : searching visitor 
+2016-09-27 11:56:41,015 +0530 [http-nio-8080-exec-10] DEBUG: Java/Programming : Searching failed for visitor that is book not found
+2016-09-27 11:56:49,795 +0530 [http-nio-8080-exec-9] INFO : javaprogramming : Book Name searching by visitor  
+2016-09-27 11:56:49,795 +0530 [http-nio-8080-exec-9] DEBUG: javaprogramming : searching visitor 
+2016-09-27 11:56:49,837 +0530 [http-nio-8080-exec-9] DEBUG: javaprogramming : Searching failed for visitor that is book not found
+2016-09-27 11:56:54,549 +0530 [http-nio-8080-exec-1] INFO : kjjgj : Book Name searching by visitor  
+2016-09-27 11:56:54,550 +0530 [http-nio-8080-exec-1] DEBUG: kjjgj : searching visitor 
+2016-09-27 11:56:54,594 +0530 [http-nio-8080-exec-1] DEBUG: kjjgj : Searching failed for visitor that is book not found
+2016-09-27 11:57:12,684 +0530 [http-nio-8080-exec-3] DEBUG: User type : null
+2016-09-27 11:57:12,684 +0530 [http-nio-8080-exec-3] DEBUG: role in register jsp: 1
+2016-09-27 11:57:12,684 +0530 [http-nio-8080-exec-3] DEBUG: Passwords are not matching
+2016-09-27 11:58:38,056 +0530 [http-nio-8080-exec-2] DEBUG: lavp0616 : Record inserted succesesfully for the user 
+2016-09-27 11:58:38,057 +0530 [http-nio-8080-exec-2] INFO : Registered succesefullylavp0616
+2016-09-27 11:58:48,997 +0530 [http-nio-8080-exec-6] INFO : Java Programming : Book Name searching by visitor  
+2016-09-27 11:58:48,997 +0530 [http-nio-8080-exec-6] DEBUG: Java Programming : searching visitor 
+2016-09-27 11:59:20,615 +0530 [http-nio-8080-exec-8] INFO : asdfgh : Book Name searching by visitor  
+2016-09-27 11:59:20,615 +0530 [http-nio-8080-exec-8] DEBUG: asdfgh : searching visitor 
+2016-09-27 11:59:20,654 +0530 [http-nio-8080-exec-8] DEBUG: asdfgh : Searching failed for visitor that is book not found
+2016-09-27 11:59:52,034 +0530 [http-nio-8080-exec-2] INFO : For New Session Login model is created
+2016-09-27 11:59:52,078 +0530 [http-nio-8080-exec-2] DEBUG: lavp : Invalid user
+2016-09-27 12:00:30,805 +0530 [http-nio-8080-exec-7] INFO : For New Session Login model is created
+2016-09-27 12:00:30,839 +0530 [http-nio-8080-exec-7] INFO : Role of the lavp0616 is 1
+2016-09-27 12:00:30,839 +0530 [http-nio-8080-exec-7] DEBUG: Username : lavp0616 and Role : 1
+2016-09-27 12:00:30,839 +0530 [http-nio-8080-exec-7] INFO : lavp0616 is logged in as normal user
+2016-09-27 12:00:30,880 +0530 [http-nio-8080-exec-7] DEBUG: lavp0616 :  is  not a registered user! Please sign up first
+2016-09-27 12:00:30,881 +0530 [http-nio-8080-exec-7] DEBUG: lavp0616tried to login to the system
+2016-09-27 12:00:42,769 +0530 [http-nio-8080-exec-10] INFO : For New Session Login model is created
+2016-09-27 12:00:42,815 +0530 [http-nio-8080-exec-10] INFO : Role of the lavp0616 is 1
+2016-09-27 12:00:42,816 +0530 [http-nio-8080-exec-10] DEBUG: Username : lavp0616 and Role : 1
+2016-09-27 12:00:42,816 +0530 [http-nio-8080-exec-10] INFO : lavp0616 is logged in as normal user
+2016-09-27 12:00:42,846 +0530 [http-nio-8080-exec-10] DEBUG: lavp0616 :  is  not a registered user! Please sign up first
+2016-09-27 12:00:42,846 +0530 [http-nio-8080-exec-10] DEBUG: lavp0616tried to login to the system
+2016-09-27 12:02:02,100 +0530 [http-nio-8080-exec-3] INFO : For New Session Login model is created
+2016-09-27 12:02:02,137 +0530 [http-nio-8080-exec-3] INFO : Role of the lavp0616 is 1
+2016-09-27 12:02:02,137 +0530 [http-nio-8080-exec-3] DEBUG: Username : lavp0616 and Role : 1
+2016-09-27 12:02:02,137 +0530 [http-nio-8080-exec-3] INFO : lavp0616 is logged in as normal user
+2016-09-27 12:02:02,167 +0530 [http-nio-8080-exec-3] INFO : Login succesefull for the userlavp0616
+2016-09-27 12:02:07,030 +0530 [http-nio-8080-exec-2] INFO : lavp0616 : details are found
+2016-09-27 12:02:19,263 +0530 [http-nio-8080-exec-4] INFO : lavp0616 : Records updated succesefully
+2016-09-27 12:02:19,264 +0530 [http-nio-8080-exec-4] INFO : lavp0616 : Details are edited
+2016-09-27 12:02:20,433 +0530 [http-nio-8080-exec-7] INFO : lavp0616 : details are found
+2016-09-27 12:02:34,688 +0530 [http-nio-8080-exec-8] INFO : lavp0616 : Records updated succesefully
+2016-09-27 12:02:34,689 +0530 [http-nio-8080-exec-8] INFO : lavp0616 : Details are edited
+2016-09-27 12:02:37,643 +0530 [http-nio-8080-exec-9] DEBUG: lavp0616 : User's book details 
+2016-09-27 12:02:37,693 +0530 [http-nio-8080-exec-9] DEBUG: lavp0616 : Don't have any books
+2016-09-27 12:02:39,408 +0530 [http-nio-8080-exec-3] DEBUG: lavp0616 : User's book details 
+2016-09-27 12:02:39,444 +0530 [http-nio-8080-exec-3] DEBUG: lavp0616 : Don't have any books
+2016-09-27 12:02:41,701 +0530 [http-nio-8080-exec-2] INFO : Logout succesefull
+2016-09-27 12:02:43,316 +0530 [http-nio-8080-exec-6] DEBUG: Error! Session has ended.  Please login.
+2016-09-27 12:02:43,805 +0530 [http-nio-8080-exec-7] DEBUG: Session is not created
+2016-09-27 12:02:44,005 +0530 [http-nio-8080-exec-8] DEBUG: Error! Session has ended.  Please login.
+2016-09-27 12:02:44,218 +0530 [http-nio-8080-exec-10] DEBUG: Session is not created
+2016-09-27 12:02:44,390 +0530 [http-nio-8080-exec-9] DEBUG: Error! Session has ended.  Please login.
+2016-09-27 12:02:44,566 +0530 [http-nio-8080-exec-1] DEBUG: session is not created
+2016-09-27 12:02:44,767 +0530 [http-nio-8080-exec-3] DEBUG: Error! Session has ended.  Please login.
+2016-09-27 12:02:44,921 +0530 [http-nio-8080-exec-5] DEBUG: session is not created
+2016-09-27 12:02:45,084 +0530 [http-nio-8080-exec-2] DEBUG: Error! Session has ended.  Please login.
+2016-09-27 12:02:49,617 +0530 [http-nio-8080-exec-4] DEBUG: User type : null
+2016-09-27 12:02:49,617 +0530 [http-nio-8080-exec-4] DEBUG: role in register jsp: 1
+2016-09-27 12:02:49,617 +0530 [http-nio-8080-exec-4] DEBUG: Passwords are not matching
+2016-09-27 12:03:05,384 +0530 [http-nio-8080-exec-8] DEBUG: User type : null
+2016-09-27 12:03:05,384 +0530 [http-nio-8080-exec-8] DEBUG: role in register jsp: 1
+2016-09-27 12:03:05,384 +0530 [http-nio-8080-exec-8] DEBUG: Passwords are not matching
+2016-09-27 12:03:29,456 +0530 [http-nio-8080-exec-2] INFO : For New Session Login model is created
+2016-09-27 12:03:29,485 +0530 [http-nio-8080-exec-2] INFO : Role of the lavp0616 is 1
+2016-09-27 12:03:29,485 +0530 [http-nio-8080-exec-2] DEBUG: Username : lavp0616 and Role : 1
+2016-09-27 12:03:29,485 +0530 [http-nio-8080-exec-2] INFO : lavp0616 is logged in as normal user
+2016-09-27 12:03:29,515 +0530 [http-nio-8080-exec-2] INFO : Login succesefull for the userlavp0616
+2016-09-27 12:03:39,452 +0530 [http-nio-8080-exec-7] INFO : For New Session Login model is created
+2016-09-27 12:03:39,488 +0530 [http-nio-8080-exec-7] INFO : Role of the df is 2
+2016-09-27 12:03:39,488 +0530 [http-nio-8080-exec-7] DEBUG: Username : df and Role : 2
+2016-09-27 12:03:39,488 +0530 [http-nio-8080-exec-7] INFO : df is logged in as normal user
+2016-09-27 12:03:39,517 +0530 [http-nio-8080-exec-7] INFO : Login succesefull for the userdf
+2016-09-27 12:03:56,841 +0530 [http-nio-8080-exec-10] INFO : For New Session Login model is created
+2016-09-27 12:03:56,871 +0530 [http-nio-8080-exec-10] INFO : Role of the df is 2
+2016-09-27 12:03:56,871 +0530 [http-nio-8080-exec-10] DEBUG: Username : df and Role : 2
+2016-09-27 12:03:56,871 +0530 [http-nio-8080-exec-10] INFO : df is logged in as normal user
+2016-09-27 12:03:56,901 +0530 [http-nio-8080-exec-10] INFO : Login succesefull for the userdf
+2016-09-27 12:04:12,995 +0530 [http-nio-8080-exec-8] INFO : lavp0616: Is valid to issue books
+2016-09-27 12:04:13,006 +0530 [http-nio-8080-exec-8] INFO : Insertion success for book id B005 and for username lavp0616
+2016-09-27 12:04:20,537 +0530 [http-nio-8080-exec-5] DEBUG: lavp0616 : User's book details 
+2016-09-27 12:04:20,590 +0530 [http-nio-8080-exec-5] INFO : lavp0616 : searching for books
+2016-09-27 12:06:10,580 +0530 [http-nio-8080-exec-3] INFO : B12294 : Inserted successfully
+2016-09-27 12:06:10,580 +0530 [http-nio-8080-exec-3] INFO : B12294 : Book Inserted succesefully
+2016-09-27 12:07:00,030 +0530 [http-nio-8080-exec-10] INFO : For New Session Login model is created
+2016-09-27 12:07:00,062 +0530 [http-nio-8080-exec-10] INFO : Role of the admin is 3
+2016-09-27 12:07:00,063 +0530 [http-nio-8080-exec-10] DEBUG: Username : admin and Role : 3
+2016-09-27 12:07:00,063 +0530 [http-nio-8080-exec-10] INFO : admin is logged in as normal user
+2016-09-27 12:07:00,092 +0530 [http-nio-8080-exec-10] INFO : Login succesefull for the useradmin
+2016-09-27 12:07:07,885 +0530 [http-nio-8080-exec-8] ERROR: lavp0616 : Can't remove users for the user 
+2016-09-27 12:07:07,885 +0530 [http-nio-8080-exec-8] DEBUG: lavp0616 : Remove  unsuccessful to the user 
+2016-09-27 12:07:38,630 +0530 [http-nio-8080-exec-7] INFO : B005 : is returned by : lavp0616
+2016-09-27 12:07:38,631 +0530 [http-nio-8080-exec-7] INFO : B005 : Deletion success for book id  and for username lavp0616
+2016-09-27 12:08:07,437 +0530 [http-nio-8080-exec-9] INFO : lavp0616 : Removed user
+2016-09-27 12:08:20,756 +0530 [http-nio-8080-exec-10] INFO : Logout succesefull
+2016-09-27 12:08:22,228 +0530 [http-nio-8080-exec-6] DEBUG: session is not created
+2016-09-27 12:08:30,919 +0530 [http-nio-8080-exec-9] DEBUG: Session is not created
+2016-09-27 12:08:38,795 +0530 [http-nio-8080-exec-3] DEBUG: Session is not created
+2016-09-27 12:08:53,012 +0530 [http-nio-8080-exec-7] DEBUG: Error! Session has ended.  Please login.
+2016-09-27 12:08:58,006 +0530 [http-nio-8080-exec-6] DEBUG: Error! Session has ended.  Please login.
+2016-09-27 12:09:16,037 +0530 [http-nio-8080-exec-8] INFO : For New Session Login model is created
+2016-09-27 12:09:16,080 +0530 [http-nio-8080-exec-8] DEBUG: lavp0616 : Invalid user
+2016-09-27 12:16:44,202 +0530 [http-nio-8080-exec-1] INFO : For New Session Login model is created
+2016-09-27 12:16:44,245 +0530 [http-nio-8080-exec-1] INFO : Role of the libr0616 is 2
+2016-09-27 12:16:44,245 +0530 [http-nio-8080-exec-1] DEBUG: Username : libr0616 and Role : 2
+2016-09-27 12:16:44,245 +0530 [http-nio-8080-exec-1] INFO : libr0616 is logged in as normal user
+2016-09-27 12:16:44,281 +0530 [http-nio-8080-exec-1] INFO : Login succesefull for the userlibr0616
+2016-09-27 12:19:06,462 +0530 [main] DEBUG: nagr061 : Can't remove user
+2016-09-27 12:19:06,541 +0530 [main] DEBUG: nagr061 : Record inserted succesesfully for the user 
+2016-09-27 12:26:36,497 +0530 [main] INFO : nagr061 : Removed user
+2016-09-27 12:26:36,574 +0530 [main] DEBUG: nagr061 : Record inserted succesesfully for the user 
+2016-09-27 12:27:18,837 +0530 [main] INFO : nagr061 : Removed user
+2016-09-27 12:27:18,915 +0530 [main] DEBUG: nagr061 : Record inserted succesesfully for the user 
+2016-09-27 14:23:34,905 +0530 [main] INFO : B012324 : Inserted successfully
+2016-09-27 14:23:34,983 +0530 [main] INFO : B012324: Deleted succesesfully
+2016-09-27 14:23:35,013 +0530 [main] INFO : B012324 : Deleted already
+2016-09-27 14:24:23,420 +0530 [main] INFO : nagr061 : Removed user
+2016-09-27 14:24:23,497 +0530 [main] DEBUG: nagr061 : Record inserted succesesfully for the user 
+2016-09-27 14:24:28,063 +0530 [main] INFO : B012324 : Inserted successfully
+2016-09-27 14:24:28,141 +0530 [main] INFO : B012324: Deleted succesesfully
+2016-09-27 14:24:28,171 +0530 [main] INFO : B012324 : Deleted already
+2016-09-27 14:29:48,668 +0530 [main] INFO : B012324 : Inserted successfully
+2016-09-27 14:29:48,743 +0530 [main] INFO : B012324: Deleted succesesfully
+2016-09-27 14:29:48,774 +0530 [main] INFO : B012324 : Deleted already
+2016-09-27 14:29:53,349 +0530 [main] INFO : nagr061 : Removed user
+2016-09-27 14:29:53,426 +0530 [main] DEBUG: nagr061 : Record inserted succesesfully for the user 

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>Library</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description>Process of checking whether username and password present in database or not</description>
+    <display-name>LoginServlet</display-name>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>net.cr.user.LoginServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/Login</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description>This servlet registers new users, librarians to the system</description>
+    <display-name>RegisterServlet</display-name>
+    <servlet-name>RegisterServlet</servlet-name>
+    <servlet-class>net.cr.user.RegisterServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>RegisterServlet</servlet-name>
+    <url-pattern>/Register</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description>This servlet allows user to edit user's details</description>
+    <display-name>EditServlet</display-name>
+    <servlet-name>EditServlet</servlet-name>
+    <servlet-class>net.cr.user.EditServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>EditServlet</servlet-name>
+    <url-pattern>/Edit</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description>This servlets terminates the system and clears all the sessions</description>
+    <display-name>LogoutServlet</display-name>
+    <servlet-name>LogoutServlet</servlet-name>
+    <servlet-class>net.cr.user.LogoutServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LogoutServlet</servlet-name>
+    <url-pattern>/Logout</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description>This servlet process the editing of books which are there in library by librarian</description>
+    <display-name>EditBookServlet</display-name>
+    <servlet-name>EditBookServlet</servlet-name>
+    <servlet-class>net.cr.book.EditBookServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>EditBookServlet</servlet-name>
+    <url-pattern>/EditBook</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description>This servlet allow librarian to delete the books from library</description>
+    <display-name>DeleteBookServlet</display-name>
+    <servlet-name>DeleteBookServlet</servlet-name>
+    <servlet-class>net.cr.book.DeleteBookServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>DeleteBookServlet</servlet-name>
+    <url-pattern>/DeleteBook</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description>This servlets add new books to the libraray by librarian</description>
+    <display-name>AddBookServlet</display-name>
+    <servlet-name>AddBookServlet</servlet-name>
+    <servlet-class>net.cr.book.AddBookServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>AddBookServlet</servlet-name>
+    <url-pattern>/AddBook</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description>This servlet removes the user from the system done by administrator</description>
+    <display-name>RemoveUserServlet</display-name>
+    <servlet-name>RemoveUserServlet</servlet-name>
+    <servlet-class>net.cr.user.RemoveUserServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>RemoveUserServlet</servlet-name>
+    <url-pattern>/RemoveUser</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description>This servlet is to issue books to the users </description>
+    <display-name>IssueBookServlet</display-name>
+    <servlet-name>IssueBookServlet</servlet-name>
+    <servlet-class>net.cr.book.IssueBookServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>IssueBookServlet</servlet-name>
+    <url-pattern>/IssueBook</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description>This servlet used to take the books from the user</description>
+    <display-name>ReturnBookServlet</display-name>
+    <servlet-name>ReturnBookServlet</servlet-name>
+    <servlet-class>net.cr.book.ReturnBookServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ReturnBookServlet</servlet-name>
+    <url-pattern>/ReturnBook</url-pattern>
+  </servlet-mapping>
+</web-app>
